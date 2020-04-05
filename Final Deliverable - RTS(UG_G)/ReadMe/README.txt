@@ -1,0 +1,1 @@
+In our codes, all the codes have specific target. 383.ipynb has single variables analysis and route analysis. acc_absence_analysis.ipynb&accident_analysis: accident and absence relationship analysisregu_xb_analysis : accident and schedule data relationship analysisfinal_pres_analysis: has combined analysis and final presentation version 
